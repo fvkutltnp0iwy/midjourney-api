@@ -2,7 +2,7 @@
 
 > **default $0.045; imagine $0.045; imagine-niji6 $0.045** — flat per-unit billing through the OpenAI-compatible APIMart gateway, $1 minimum top-up.
 
-**[Live pricing](https://apimart.ai/pricing)** · **[Get an API key](https://apimart.ai/keys)**
+**[Live pricing](https://go.apimart.ai/k-050a28)** · **[Get an API key](https://go.apimart.ai/k-c1c8c7)**
 
 Everything here refers to **midjourney** — also written **midjourney** or **midjourney**.
 
